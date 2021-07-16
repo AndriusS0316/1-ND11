@@ -1,2 +1,2 @@
-// astunta uzduotis
+// vienuolikta uzduotis
 
