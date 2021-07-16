@@ -1,10 +1,10 @@
 {
-  "name": "1-ND10",
+  "name": "1-ND11",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "ND10": "live-server --port=3004",
+    "ND11": "live-server --port=3011",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
